@@ -1,1 +1,1 @@
-# Anaplan_IBP
+# Project_demo for kaggle competition
